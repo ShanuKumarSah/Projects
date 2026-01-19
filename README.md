@@ -1,2 +1,3 @@
 # Projects
-Beginner-level project created to practice data analysis concepts and build a strong analytics portfolio.
+Power BI project analyzing banking data to track key metrics, customer trends, and performance insights using interactive dashboards.
+
